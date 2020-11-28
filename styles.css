@@ -55,7 +55,7 @@ section.congratulations a, section.congratulations a:link, section.congratulatio
 }
 section.congratulations aside {
     display: block;
-    color: white;
+    color: gold;
     font-size: 0.875em;
     font-style: italic;
 }
